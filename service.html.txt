@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - Social Pilot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="services">
+        <h1>Our Services</h1>
+        <h2>Social Media Strategy</h2>
+        <p>We create a tailored strategy to help your brand grow.</p>
+        <h2>Content Creation & Management</h2>
+        <p>We design engaging content and manage your accounts.</p>
+    </section>
+
+    <footer>
+        <p>Contact us: <a href="mailto:sheikharslan@gmail.com">sheikharslan@gmail.com</a></p>
+        <p>WhatsApp: <a href="tel:+923064353119">03064353119</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
